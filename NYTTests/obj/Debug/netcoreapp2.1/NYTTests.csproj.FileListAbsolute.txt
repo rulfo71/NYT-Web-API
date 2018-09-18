@@ -1,0 +1,17 @@
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\NYTTests.deps.json
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\NYTTests.runtimeconfig.json
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\NYTTests.runtimeconfig.dev.json
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\NYTTests.dll
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\NYTTests.pdb
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\NYTWebApi.dll
+C:\dev\NYT Web API\NYTTests\bin\Debug\netcoreapp2.1\NYTWebApi.pdb
+C:\dev\NYT Web API\NYTTests\obj\Debug\netcoreapp2.1\NYTTests.csprojAssemblyReference.cache
+C:\dev\NYT Web API\NYTTests\obj\Debug\netcoreapp2.1\NYTTests.csproj.CoreCompileInputs.cache
+C:\dev\NYT Web API\NYTTests\obj\Debug\netcoreapp2.1\NYTTests.AssemblyInfoInputs.cache
+C:\dev\NYT Web API\NYTTests\obj\Debug\netcoreapp2.1\NYTTests.AssemblyInfo.cs
+C:\dev\NYT Web API\NYTTests\obj\Debug\netcoreapp2.1\NYTTests.csproj.CopyComplete
+C:\dev\NYT Web API\NYTTests\obj\Debug\netcoreapp2.1\NYTTests.dll
+C:\dev\NYT Web API\NYTTests\obj\Debug\netcoreapp2.1\NYTTests.pdb
