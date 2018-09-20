@@ -4,7 +4,7 @@ using System.Linq;
 using NYTWebApi.Services;
 using System.Threading.Tasks;
 using NYTWebApi.Models;
-
+using System.Collections.Generic;
 
 namespace NYTTests
 {
@@ -17,9 +17,9 @@ namespace NYTTests
             string theme = "trump";
             string begin_date = "20160901";
             string end_date = "20160902";
-            Task<RootObj> rootObjTask = ArticlesService.getjsonAsync(theme,begin_date,end_date);
-            var rootObj = rootObjTask.Result;
-            var quantityOfArticles = rootObj.response.docs.Count();
+            Task<List<Doc>> articlesTask = ArticlesService.getjsonAsync(theme,begin_date,end_date);
+            var articles = articlesTask.Result;
+            var quantityOfArticles = articles.Count();
             var result = (quantityOfArticles == 10);
             Assert.IsTrue(result ,"There should be maximum 10 articles");
         }
