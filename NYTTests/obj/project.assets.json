@@ -5454,11 +5454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\NYT Web API\\NYTTests\\NYTTests.csproj",
+      "projectUniqueName": "c:\\dev\\NYT Web API\\NYTTests\\NYTTests.csproj",
       "projectName": "NYTTests",
-      "projectPath": "C:\\dev\\NYT Web API\\NYTTests\\NYTTests.csproj",
+      "projectPath": "c:\\dev\\NYT Web API\\NYTTests\\NYTTests.csproj",
       "packagesPath": "C:\\Users\\tpulenta\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\NYT Web API\\NYTTests\\obj\\",
+      "outputPath": "c:\\dev\\NYT Web API\\NYTTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5477,8 +5477,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\dev\\NYT Web API\\NYTWebApi\\NYTWebApi.csproj": {
-              "projectPath": "C:\\dev\\NYT Web API\\NYTWebApi\\NYTWebApi.csproj"
+            "c:\\dev\\NYT Web API\\NYTWebApi\\NYTWebApi.csproj": {
+              "projectPath": "c:\\dev\\NYT Web API\\NYTWebApi\\NYTWebApi.csproj"
             }
           }
         }
